@@ -2,22 +2,22 @@
   "Cards": [
     {
       "CollectibleName": "Fire Dragon",
-      "CollectibleForegroundUrl": "https://www.dropbox.com/scl/fi/gsrloi2un4ihl3zva33qg/Mockup_Dragon.png?rlkey=k585bn72ykhlil449lbrlbg5t&dl=1",
-      "CollectibleBackgroundUrl": "https://www.dropbox.com/scl/fi/wrn3ikcdwwg73te7bbxam/Mockup_BG.png?rlkey=6tkl4hznyz9p8yk8bbbecelp8&dl=1",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
       "RarityScore": 95,
       "FirstEdition": true
     },
     {
       "CollectibleName": "Shadow Assassin",
-      "CollectibleForegroundUrl": "https://www.dropbox.com/scl/fi/gsrloi2un4ihl3zva33qg/Mockup_Dragon.png?rlkey=k585bn72ykhlil449lbrlbg5t&dl=1",
-      "CollectibleBackgroundUrl": "https://www.dropbox.com/scl/fi/wrn3ikcdwwg73te7bbxam/Mockup_BG.png?rlkey=6tkl4hznyz9p8yk8bbbecelp8&dl=1",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
       "RarityScore": 580,
       "FirstEdition": false
     },
     {
       "CollectibleName": "Celestial Phoenix",
-      "CollectibleForegroundUrl": "https://www.dropbox.com/scl/fi/gsrloi2un4ihl3zva33qg/Mockup_Dragon.png?rlkey=k585bn72ykhlil449lbrlbg5t&dl=1",
-      "CollectibleBackgroundUrl": "https://www.dropbox.com/scl/fi/wrn3ikcdwwg73te7bbxam/Mockup_BG.png?rlkey=6tkl4hznyz9p8yk8bbbecelp8&dl=1",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
       "RarityScore": 1200,
       "FirstEdition": true
     }
