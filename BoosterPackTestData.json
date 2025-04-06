@@ -16,7 +16,7 @@
     },
     {
       "CollectibleName": "Death Dragon of the Lower Lava Caves",
-      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon2.png",
       "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Lava_BG.png",
       "RarityScore": 1200,
       "FirstEdition": true
