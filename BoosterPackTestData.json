@@ -1,23 +1,23 @@
 {
   "Cards": [
     {
-      "CollectibleName": "Fire Dragon",
+      "CollectibleName": "Sky Dragon",
       "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
       "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
       "RarityScore": 95,
-      "FirstEdition": true
+      "FirstEdition": false
     },
     {
-      "CollectibleName": "Shadow Assassin",
-      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
-      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
+      "CollectibleName": "Unicorn Bubble Gargoyle",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Gargoyle.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Friedhof_BG.png",
       "RarityScore": 580,
       "FirstEdition": false
     },
     {
-      "CollectibleName": "Celestial Phoenix",
+      "CollectibleName": "Death Dragon of the Lower Lava Caves",
       "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
-      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Lava_BG.png",
       "RarityScore": 1200,
       "FirstEdition": true
     }
