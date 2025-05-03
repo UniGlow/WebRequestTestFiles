@@ -2,7 +2,7 @@
   "Cards": [
     {
       "CollectibleName": "Sky Dragon",
-      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon3.png",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon2.png",
       "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_BG.png",
       "RarityScore": 95,
       "FirstEdition": false
