@@ -12,14 +12,18 @@
       "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Gargoyle.png",
       "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Friedhof_BG.png",
       "RarityScore": 580,
-      "FirstEdition": false
+      "FirstEdition": false,
+      "ColorBorder": "#847B91",
+      "ColorHolo": "#5E526F"
     },
     {
       "CollectibleName": "Death Dragon of the Lower Lava Caves",
       "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Dragon.png",
       "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/Mockup_Lava_BG.png",
       "RarityScore": 1200,
-      "FirstEdition": true
+      "FirstEdition": true,
+      "ColorBorder": "#826685",
+      "ColorHolo": "#81645C"
     }
   ]
 }
