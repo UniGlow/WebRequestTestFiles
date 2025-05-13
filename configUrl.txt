@@ -1,1 +1,1 @@
-https://uniglow.github.io/WebRequestTestFiles/BoosterPackTestData.json
+https://uniglow.github.io/WebRequestTestFiles/BoosterPackTestData02.json

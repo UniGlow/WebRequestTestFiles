@@ -1,0 +1,29 @@
+{
+  "Cards": [
+    {
+      "CollectibleName": "Electrical Plush Birdie (Common)",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-fg.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-bg.png",
+      "RarityScore": 95,
+      "FirstEdition": false
+    },
+    {
+      "CollectibleName": "Electrical Plush Birdie (Rare)",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-fg.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-bg.png",
+      "RarityScore": 580,
+      "FirstEdition": false,
+      "ColorBorder": "#d6f164",
+      "ColorHolo": "##0f3814"
+    },
+    {
+      "CollectibleName": "Electrical Plush Birdie (Ultra Rare)",
+      "CollectibleForegroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-fg.png",
+      "CollectibleBackgroundUrl": "https://uniglow.github.io/WebRequestTestFiles/bird1-bg.png",
+      "RarityScore": 1200,
+      "FirstEdition": true,
+      "ColorBorder": "#d6f164",
+      "ColorHolo": "##0f3814"
+    }
+  ]
+}
