@@ -14,7 +14,7 @@
       "RarityScore": 580,
       "FirstEdition": false,
       "ColorBorder": "#d6f164",
-      "ColorHolo": "##0f3814"
+      "ColorHolo": "#0f3814"
     },
     {
       "CollectibleName": "Electrical Plush Birdie (Ultra Rare)",
@@ -23,7 +23,7 @@
       "RarityScore": 1200,
       "FirstEdition": true,
       "ColorBorder": "#d6f164",
-      "ColorHolo": "##0f3814"
+      "ColorHolo": "#0f3814"
     }
   ]
 }
